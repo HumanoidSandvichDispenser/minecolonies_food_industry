@@ -1,0 +1,10 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    { "item": "minecraft:wheat" },
+    { "item": "minecraft:pumpkin_seeds" }
+  ],
+  "results": [
+    { "item": "minecolonies:corn" }
+  ]
+}

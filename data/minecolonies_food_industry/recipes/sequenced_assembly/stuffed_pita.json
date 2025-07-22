@@ -1,0 +1,94 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecolonies:flatbread"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "minecolonies:stuffed_pita"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecolonies:flatbread"
+        },
+        {
+          "tag": "forge:vegetables/onion"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecolonies:flatbread"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecolonies:flatbread"
+        },
+        {
+          "item": "minecolonies:garlic"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecolonies:flatbread"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecolonies:flatbread"
+        },
+        {
+          "item": "minecolonies:eggplant"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecolonies:flatbread"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecolonies:flatbread"
+        },
+        {
+          "tag": "forge:vegetables/tomato"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecolonies:flatbread"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecolonies:flatbread"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecolonies:flatbread"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "minecolonies:flatbread"
+  }
+}

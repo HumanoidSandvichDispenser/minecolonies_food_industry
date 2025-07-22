@@ -1,0 +1,5 @@
+{
+  "type": "create:pressing",
+  "ingredient": { "item": "minecolonies:peas" },
+  "result": { "item": "minecolonies:soybean" }
+}

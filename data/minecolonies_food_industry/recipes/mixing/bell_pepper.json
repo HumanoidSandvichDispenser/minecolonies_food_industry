@@ -1,0 +1,10 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    { "item": "farmersdelight:tomato" },
+    { "item": "minecraft:carrot" }
+  ],
+  "results": [
+    { "item": "minecolonies:bell_pepper" }
+  ]
+}

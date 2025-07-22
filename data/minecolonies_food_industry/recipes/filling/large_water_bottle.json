@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecolonies:large_empty_bottle"
+    },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "item": "minecolonies:large_water_bottle"
+    }
+  ]
+}

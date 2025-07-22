@@ -1,0 +1,9 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    { "tag": "forge:vegetables/onion" }
+  ],
+  "results": [
+    { "item": "minecolonies:garlic" }
+  ]
+}

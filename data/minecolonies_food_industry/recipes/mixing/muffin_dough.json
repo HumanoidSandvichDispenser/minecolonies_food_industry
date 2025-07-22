@@ -1,0 +1,14 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    { "item": "minecolonies:durum" },
+    { "item": "minecolonies:durum" },
+    { "item": "minecolonies:butter" },
+    { "item": "minecraft:sugar" },
+    { "item": "minecraft:sweet_berries" }
+  ],
+  "heatRequirement": "heated",
+  "results": [
+    { "item": "minecolonies:muffin_dough", "count": 1 }
+  ]
+}

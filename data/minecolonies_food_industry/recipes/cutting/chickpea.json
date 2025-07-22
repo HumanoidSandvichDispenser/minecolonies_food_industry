@@ -1,0 +1,12 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    { "item": "minecolonies:peas" }
+  ],
+  "result": [
+    { "item": "minecolonies:chickpea" }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

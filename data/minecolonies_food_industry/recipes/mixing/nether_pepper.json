@@ -1,0 +1,12 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    { "item": "minecolonies:bell_pepper" },
+    { "item": "minecolonies:bell_pepper" },
+    { "item": "minecraft:blaze_powder" }
+  ],
+  "results": [
+    { "item": "minecolonies:nether_pepper", "count": 2 }
+  ]
+}

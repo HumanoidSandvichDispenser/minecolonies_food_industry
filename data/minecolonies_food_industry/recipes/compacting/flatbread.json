@@ -1,0 +1,17 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "item": "minecolonies:durum" },
+    { "item": "minecolonies:durum" },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "item": "minecolonies:flatbread"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    { "item": "minecraft:pumpkin" },
+    { "item": "minecraft:potato" }
+  ],
+  "results": [
+    { "item": "minecolonies:butternut_squash" }
+  ]
+}

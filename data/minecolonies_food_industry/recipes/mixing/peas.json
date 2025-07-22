@@ -1,0 +1,11 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    { "item": "minecraft:wheat_seeds" },
+    { "item": "minecraft:wheat_seeds" },
+    { "item": "minecraft:brown_mushroom" }
+  ],
+  "results": [
+    { "item": "minecolonies:peas" }
+  ]
+}

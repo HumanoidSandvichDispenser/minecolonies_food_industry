@@ -1,0 +1,12 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    { "tag": "minecraft:leaves" }
+  ],
+  "result": [
+    { "item": "minecolonies:mint", "count": 8 }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

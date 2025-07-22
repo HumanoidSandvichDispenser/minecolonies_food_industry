@@ -1,0 +1,13 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    { "item": "minecolonies:durum" },
+    { "item": "minecolonies:durum_durum" },
+    { "item": "farmersdelight:butter" },
+  ],
+  "heatRequirement": "heated",
+  "results": [
+    { "item": "minecolonies:manchet_dough", "count": 2 }
+  ],
+  "processingTime": 200
+}

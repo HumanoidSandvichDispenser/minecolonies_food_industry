@@ -1,0 +1,9 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    { "item": "minecraft:wheat" }
+  ],
+  "results": [
+    { "item": "minecolonies:durum" }
+  ]
+}
